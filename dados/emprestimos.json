@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "cpf_usuario": "65425934467",
+        "codigo_material": "102846354746",
+        "data_emprestimo": "2026-11-25",
+        "data_prevista": "2026-12-09",
+        "data_devolucao": "2026-11-25",
+        "multa": 0.0,
+        "avaliado": true
+    },
+    {
+        "id": 2,
+        "cpf_usuario": "65425934467",
+        "codigo_material": "9788522222222",
+        "data_emprestimo": "2026-11-25",
+        "data_prevista": "2026-12-09",
+        "data_devolucao": "2026-12-13",
+        "multa": 2.0,
+        "avaliado": false
+    }
+]

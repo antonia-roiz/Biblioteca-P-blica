@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Antonia Rodrigues",
+        "cpf": "601246282067",
+        "email": "antoniarosa@gmail.com",
+        "tipo": "bibliotecario",
+        "matricula": "7275",
+        "setor": "Livros"
+    },
+    {
+        "id": 2,
+        "nome": "Camilli Mayer",
+        "cpf": "65425934467",
+        "email": "camillimayer@gmail.com",
+        "tipo": "leitor",
+        "data_nascimento": "2008-03-25",
+        "limite_emprestimos": 3
+    }
+]

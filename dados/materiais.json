@@ -1,0 +1,31 @@
+[
+    {
+        "tipo": "livro_fisico",
+        "codigo": "102846354746",
+        "titulo": "Alchemised",
+        "quantidade_total": 3,
+        "disponivel": 3,
+        "total_emprestimos": 1,
+        "autor": "SenLinYu"
+    },
+    {
+        "tipo": "livro_digital",
+        "codigo": "9788522222222",
+        "titulo": "A Culpa é das Estrelas",
+        "quantidade_total": 50,
+        "disponivel": 50,
+        "total_emprestimos": 1,
+        "autor": "Jonh",
+        "tamanho_mb": 83.0,
+        "formato": "PDF"
+    },
+    {
+        "tipo": "revista",
+        "codigo": "65243652428",
+        "titulo": "National Geographic",
+        "quantidade_total": 10,
+        "disponivel": 10,
+        "total_emprestimos": 0,
+        "edicao": "46"
+    }
+]
